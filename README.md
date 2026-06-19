@@ -1,5 +1,6 @@
 # Gemini 🌿
-Chatbot do Jornada Viagens, um app de simulação de um site de venda de pacotes de viagens, passagens aéreas, hospedagem etc.
+
+Chatbot do Jornada Viagens, um app de simulação de um site de venda de pacotes de viagens, passagens aéreas, hospedagem etc...
 
 ## 🔨 Objetivos do projeto
 
